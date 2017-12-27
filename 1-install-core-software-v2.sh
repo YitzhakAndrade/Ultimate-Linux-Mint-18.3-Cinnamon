@@ -12,10 +12,18 @@ set -e
 ##################################################################################################################
 
 #software from 'normal' repositories
-sudo apt-get install -y catfish clementine curl dconf-cli dconf-editor dropbox evolution focuswriter geany geary gimp gpick
-sudo apt-get install -y glances gparted grsync hardinfo inkscape meld
-sudo apt-get install -y openshot pinta plank ppa-purge radiotray screenruler screenfetch scrot shutter slurm synapse
-sudo apt-get install -y thunar vlc vnstat   
+
+#sudo apt-get install -y catfish clementine curl dconf-cli dconf-editor dropbox evolution focuswriter geany geary gimp gpick
+sudo apt-get install -y catfish curl dconf-cli dconf-editor gimp
+
+#sudo apt-get install -y glances gparted grsync hardinfo inkscape meld
+sudo apt-get install -y glances gparted grsync hardinfo meld
+
+#sudo apt-get install -y openshot pinta plank ppa-purge radiotray screenruler screenfetch scrot shutter slurm synapse
+sudo apt-get install -y pinta ppa-purge screenfetch shutter synapse
+
+#sudo apt-get install -y thunar vlc vnstat
+sudo apt-get install -y vlc vnstat
 
 
 #operating specific software

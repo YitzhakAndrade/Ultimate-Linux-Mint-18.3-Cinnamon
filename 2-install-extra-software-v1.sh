@@ -13,31 +13,31 @@ set -e
 
 # Atom
 
-sh install-atom-v*.sh
+#sh install-atom-v*.sh
 
 ###############################################################################################
 
 # Brackets
 
-sh install-brackets-v*.sh
+#sh install-brackets-v*.sh
 
 ###############################################################################################
 
 # Google Chrome
 
-sh install-google-chrome-v*.sh
+#sh install-google-chrome-v*.sh
 
 ###############################################################################################
 
 # Gradio
 
-sh install-gradio-v*.sh
+#sh install-gradio-v*.sh
 
 ###############################################################################################
 
 # Neofetch
 
-sh install-neofetch-v*.sh
+#sh install-neofetch-v*.sh
 
 ###############################################################################################
 
@@ -49,7 +49,7 @@ sh install-peek-v*.sh
 
 # Redshift
 
-sh install-redshift-v*.sh
+#sh install-redshift-v*.sh
 
 ###############################################################################################
 
@@ -68,7 +68,7 @@ sh install-spotify-v*.sh
 
 # Sublime text 3
 
-sh install-sublime-text-v*.sh
+#sh install-sublime-text-v*.sh
 
 
 ###############################################################################################
@@ -81,13 +81,13 @@ sh install-sublime-text-v*.sh
 
 # Variety
 
-sh install-variety-v*.sh
+#sh install-variety-v*.sh
 
 ###############################################################################################
 
 # Vivaldi
 
-sh install-vivaldi-snapshot-v*.sh
+#sh install-vivaldi-snapshot-v*.sh
 
 ###############################################################################################
 

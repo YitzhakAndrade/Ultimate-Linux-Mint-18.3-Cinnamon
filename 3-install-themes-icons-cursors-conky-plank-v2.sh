@@ -49,7 +49,7 @@ sh install-arc-flatabulous-theme-v*.sh
 
 # Plank themes
 
-sh plank-themes-v*.sh
+#sh plank-themes-v*.sh
 
 ###############################################################################################
 
@@ -61,13 +61,13 @@ sh theme-arc-colora-collection-3.*.sh
 
 # Mint-Y themes
 
-sh theme-mint-y-colora-collection-3.*.sh
+#sh theme-mint-y-colora-collection-3.*.sh
 
 ###############################################################################################
 
 # Cursor theme
 
-sudo apt-get install -y breeze-cursor-theme
+#sudo apt-get install -y breeze-cursor-theme
 
 
 
